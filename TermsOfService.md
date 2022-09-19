@@ -34,3 +34,8 @@ These terms and conditions are effective as of 2022-09-19
 **Contact Us**
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at alcaeusdevelopment@gmail.com.
+
+**Privacy Policy**
+If you wish to read our privacy policy, you can find it here:
+
+*[Aktieguiden's Privacy Policy](https://github.com/alcaeusdevelopment/aktieguidenPolicies/blob/main/PrivacyPolicy.md)
