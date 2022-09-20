@@ -68,4 +68,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 If you wish to read our Terms of Service, you can find it here:
 
-*[Aktieguiden's Terms of Service](https://github.com/alcaeusdevelopment/aktieguidenPolicies/blob/main/TermsOfService.md)
+*   [Aktieguiden's Terms of Service](https://github.com/alcaeusdevelopment/aktieguidenPolicies/blob/main/TermsOfService.md)
