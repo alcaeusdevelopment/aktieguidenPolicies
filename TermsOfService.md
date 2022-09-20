@@ -39,4 +39,4 @@ If you have any questions or suggestions about my Terms and Conditions, do not h
 
 If you wish to read our privacy policy, you can find it here:
 
-*[Aktieguiden's Privacy Policy](https://github.com/alcaeusdevelopment/aktieguidenPolicies/blob/main/PrivacyPolicy.md)
+*   [Aktieguiden's Privacy Policy](https://github.com/alcaeusdevelopment/aktieguidenPolicies/blob/main/PrivacyPolicy.md)
